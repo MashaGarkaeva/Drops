@@ -1,0 +1,2 @@
+com/drops/desktop/DesktopLauncher.java
+ com.drops.desktop.DesktopLauncher
